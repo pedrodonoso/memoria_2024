@@ -1,0 +1,8 @@
+*.m3d
+*.oct
+*.vtk
+*.txt
+
+jens
+mesher_roi
+build/*
